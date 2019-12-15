@@ -1,0 +1,7 @@
+.background {
+	background-image: linear-gradient(-255deg,rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/backgroundo.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}

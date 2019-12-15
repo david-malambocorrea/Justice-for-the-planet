@@ -1,0 +1,23 @@
+.banner {
+	background-image: linear-gradient(-255deg,rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/backgrounde.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 40px;
+    font-family: 'Lobster', sans-serif;
+
+	
+}
+
+.banner h2 {
+	font-size: 18.9px;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
